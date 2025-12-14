@@ -3,7 +3,7 @@
 **Latest opencore version**
 ## System Specs
 
-| **Component** | **Model**                      |
+| **Component**   | **Model**                      |
 |--------------------------------------------------|
 |  CPU            |  Intel Xeon E5 2680 V4         |
 |  Motherboard    |  Huananzhi X99-TF-Q            |
