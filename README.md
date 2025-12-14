@@ -1,9 +1,9 @@
 # Opencore EFI for X99 TF-Q
-** Latest version:** Tahoe 26.1 (25B78) \
-** Latest opencore version **
+**Latest version:** Tahoe 26.1 (25B78) \
+**Latest opencore version**
 ## System Specs
 
-| ** Component ** | **Model**                      |
+| **Component** | **Model**                      |
 |--------------------------------------------------|
 |  CPU            |  Intel Xeon E5 2680 V4         |
 |  Motherboard    |  Huananzhi X99-TF-Q            |
