@@ -3,16 +3,13 @@
 **Latest opencore version**
 ## System Specs
 
-| **Component**   | **Model**                      |
-|--------------------------------------------------|
-|  CPU            |  Intel Xeon E5 2680 V4         |
-|  Motherboard    |  Huananzhi X99-TF-Q            |
-|  RAM            |  Samsung DDR4 ECC 32GB (1x32)  |
-|  GPU            |  Gigabyte AORUS RX 570 4GB     |
-|  Storage        |  Apacer 256GB M2               |
-
-
-
+| **Component** | **Model**                             |
+| ------------- | ------------------------------------- |
+| CPU           | Intel Xeon E5-2680 V4                 |
+| Motherboard   | Hunanzhi X99-TF-Q                     |
+| RAM           | Samsung 32GB ECC DDR4 (1x32)          |
+| GPU           | AMD Radeon™ RX 570 4GB                |
+| Storage       | Apacer 256GB M.2 NVME                 |
 
 
 ## Credits
